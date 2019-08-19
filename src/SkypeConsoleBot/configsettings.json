@@ -1,0 +1,29 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "name": "Abhinab",
+  "Skypebot": {
+    "user_name": "",
+    "domain": "",
+    "password": ""
+  },
+  "UCWA": {
+    "lync_oauth_url": "",
+    "ucwa_applications_url": "",
+    "ucwa_applications_host": ""
+  },
+  "Email": {
+    "Smtp": {
+      "mail_server": "",
+      "from_address": "",
+      "to_address": ""
+    }
+  },
+  "appinsights_key": ""
+}

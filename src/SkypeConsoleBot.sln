@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeConsoleBot", "SkypeConsoleBot\SkypeConsoleBot.csproj", "{CF029C07-41CB-4F1A-ACC1-C5B913480CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF029C07-41CB-4F1A-ACC1-C5B913480CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF029C07-41CB-4F1A-ACC1-C5B913480CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF029C07-41CB-4F1A-ACC1-C5B913480CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF029C07-41CB-4F1A-ACC1-C5B913480CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F9A858-A8F3-4628-802B-B9DA492C1306}
+	EndGlobalSection
+EndGlobal
